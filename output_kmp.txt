@@ -1,0 +1,13 @@
+KMP를 사용해 Pattern String을 발견한 인덱스 179389.
+KMP를 사용해 Pattern String을 발견한 인덱스 212304.
+KMP를 사용해 Pattern String을 발견한 인덱스 960945.
+KMP를 사용해 Pattern String을 발견한 인덱스 1622869.
+KMP를 사용해 Pattern String을 발견한 인덱스 3310428.
+KMP를 사용해 Pattern String을 발견한 인덱스 4404261.
+KMP를 사용해 Pattern String을 발견한 인덱스 4875784.
+KMP를 사용해 Pattern String을 발견한 인덱스 5305540.
+KMP를 사용해 Pattern String을 발견한 인덱스 8178058.
+KMP를 사용해 Pattern String을 발견한 인덱스 8218878.
+KMP를 사용해 Pattern String을 발견한 인덱스 8775425.
+KMP를 사용해 Pattern String을 발견한 인덱스 8908123.
+KMP를 사용해 Pattern String을 발견한 인덱스 9933196.
